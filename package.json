@@ -29,7 +29,7 @@
     "lerna-changelog": "^1.0.1",
     "mdast-util-from-markdown": "^0.8.5",
     "tmp": "^0.2.1",
-    "validate-peer-dependencies": "^1.2.0",
+    "validate-peer-dependencies": "^2.0.0",
     "which": "^2.0.2"
   },
   "devDependencies": {
