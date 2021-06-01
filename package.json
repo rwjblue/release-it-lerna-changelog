@@ -25,7 +25,7 @@
     "serial": true
   },
   "dependencies": {
-    "execa": "^4.1.0",
+    "execa": "^5.0.1",
     "lerna-changelog": "^1.0.1",
     "mdast-util-from-markdown": "^0.8.5",
     "tmp": "^0.2.1",
